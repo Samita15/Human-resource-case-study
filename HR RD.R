@@ -58,13 +58,6 @@ write.csv(test.prob.score1,"Samita_Gawas_P4_part2.csv",row.names = F)
 
 
 
-###############################################################################
-predict_left = ifelse(predict_left >0.5, 1, 0)
-predict_left
-
-write.csv(test.prob.score1,"Samita_Gawas_P4_part22.csv",row.names = F)
-
-
 
 
 
